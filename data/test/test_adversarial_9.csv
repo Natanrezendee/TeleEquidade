@@ -1,0 +1,10 @@
+﻿id,caso,esperado
+test_adversarial_001,"paciente 62a dps q almoço começo com dor no peito azia e suores frio, eh hipertenso e ta c falta d ar faz 2h, fala q e so azia mas ta mto pálido e prostrado",ALTA
+test_adversarial_002,criança 3a com febre de 37.8C ha 1 dia porem mae relata q ta sonolento demais nao quer mama e teve 1 episodio de crise convulsiva em casa,ALTA
+test_adversarial_003,idoso 81a acamado sem queixa de dor mas acompanhante relata q hj ele nao reconheceu os familiares e a urina esta escura com cheiro forte,ALTA
+test_adversarial_004,"paciente 44a pedreiro relata dor no joelho dps que pulou de caçamba faz 3 semanas, joelho inchado sem conseguir dobrar p trabalhar, usou anti-inflamatorio da UBS sem melhora",MÉDIA
+test_adversarial_005,"mulher 39a cefaleia com aura visual recorrente ha 1 mes, sem resposta aos triptanos e analgésicos prescritos no posto de saude",MÉDIA
+test_adversarial_006,"paciente 53a relata perda ponderal involuntaria de 8kg em 2 meses, com aparecimento de adenomegalia cervical indolor em crescimento",MÉDIA
+test_adversarial_007,"paciente exige encaminhamento urgente p cardiologista pq a vizinha infartou e ele quer fazer eletro e eco de rotina, nega dor, nega dispneia, PA 120x80",BAIXA
+test_adversarial_008,"paciente 28a tem nevo melanocítico em dorso desde a infancia, sem alteração de cor, borda ou tamanho, solicita retirada por motivos esteticos",BAIXA
+test_adversarial_009,"paciente 50a HAS e DM2 controlados na UBS, HbA1c 6.2%, PA 120x80, assintomático, solicita endocrinologista apenas para segunda opinião de rotina",BAIXA

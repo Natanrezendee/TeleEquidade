@@ -1,0 +1,9 @@
+{"id": "test_standard_001", "caso": "Paciente 58 anos, dor torácica opressiva irradiando para braço esquerdo há 1 hora.", "esperado": "ALTA"}
+{"id": "test_standard_002", "caso": "Paciente 4 anos, febre de 39.5°C persistente com manchas vermelhas pelo corpo e letargia.", "esperado": "ALTA"}
+{"id": "test_standard_003", "caso": "Paciente 32 anos, trauma ocular grave por resíduo químico com perda de visão.", "esperado": "ALTA"}
+{"id": "test_standard_004", "caso": "Paciente 41 anos, dor lombar intensa há 3 dias sem febre ou perda de força.", "esperado": "MÉDIA"}
+{"id": "test_standard_005", "caso": "Paciente 27 anos, entorse de joelho durante futebol, edema leve, anda com apoio.", "esperado": "MÉDIA"}
+{"id": "test_standard_006", "caso": "Paciente 65 anos, pressão arterial 150x90 mmHg, assintomático, para acompanhamento.", "esperado": "MÉDIA"}
+{"id": "test_standard_007", "caso": "Paciente 22 anos, solicitação de laudo para academia de ginástica.", "esperado": "BAIXA"}
+{"id": "test_standard_008", "caso": "Paciente 51 anos, renovação de receita para anti-hipertensivo em uso regular.", "esperado": "BAIXA"}
+{"id": "test_standard_009", "caso": "Paciente 35 anos, quadro de verruga plantar crônica e indolor.", "esperado": "BAIXA"}

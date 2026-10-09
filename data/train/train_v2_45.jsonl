@@ -1,0 +1,45 @@
+{"id": "train_v2_001", "caso": "Paciente 68 anos, dor precordial há 2 dias e histórico de IAM.", "prioridade": "ALTA", "motivo": "Suspeita de síndrome coronariana aguda."}
+{"id": "train_v2_002", "caso": "Paciente 45 anos, perda súbita de visão no olho direito há 3 horas.", "prioridade": "ALTA", "motivo": "Urgência oftalmológica/neurológica aguda."}
+{"id": "train_v2_003", "caso": "Paciente 12 anos, crise asmática grave, sem resposta a broncodilatador.", "prioridade": "ALTA", "motivo": "Insuficiência respiratória aguda em pediatria."}
+{"id": "train_v2_004", "caso": "Paciente 55 anos, suspeita de fratura exposta em membro inferior.", "prioridade": "ALTA", "motivo": "Urgência ortopédica grave com risco infecção."}
+{"id": "train_v2_005", "caso": "Paciente 70 anos, rebaixamento do nível de consciência e febre alta.", "prioridade": "ALTA", "motivo": "Suspeita de sepse ou infecção do SNC."}
+{"id": "train_v2_006", "caso": "Paciente 34 anos, gestante 32 semanas com sangramento vaginal abundante.", "prioridade": "ALTA", "motivo": "Urgência obstétrica com risco de descolamento de placenta."}
+{"id": "train_v2_007", "caso": "Paciente 50 anos, cefaleia súbita de forte intensidade tipo explosiva.", "prioridade": "ALTA", "motivo": "Suspeita de hemorragia subaracnóidea."}
+{"id": "train_v2_008", "caso": "Paciente 60 anos, assimetria facial e perda de força em hemicorpo esquerdo há 1 hora.", "prioridade": "ALTA", "motivo": "Suspeita de AVC agudo dentro da janela de tromboólise."}
+{"id": "train_v2_009", "caso": "Paciente 28 anos, dor abdominal intensa em fossa ilíaca direita e febre.", "prioridade": "ALTA", "motivo": "Suspeita de apendicite aguda (abdômen agudo)."}
+{"id": "train_v2_010", "caso": "Paciente 8 anos, estridor laríngeo e tiragem intercostal em repouso.", "prioridade": "ALTA", "motivo": "Obstrução de vias aéreas superiores em pediatria."}
+{"id": "train_v2_011", "caso": "Paciente 62 anos, hematêmese volumosa e tontura ao se levantar.", "prioridade": "ALTA", "motivo": "Hemorragia digestiva alta ativa."}
+{"id": "train_v2_012", "caso": "Paciente 40 anos, queimadura de 2º e 3º grau em 30% do corpo.", "prioridade": "ALTA", "motivo": "Grande queimado com risco de choque e infecção."}
+{"id": "train_v2_013", "caso": "Paciente 75 anos, anúria há 24 horas e edema agudo de membros.", "prioridade": "ALTA", "motivo": "Insuficiência renal aguda grave."}
+{"id": "train_v2_014", "caso": "Paciente 19 anos, anafilaxia por picada de abelha com edema de glote.", "prioridade": "ALTA", "motivo": "Reação anafilática grave com risco iminente de asfixia."}
+{"id": "train_v2_015", "caso": "Paciente 52 anos, dor no pé esquerdo com palidez, ausência de pulso e frio.", "prioridade": "ALTA", "motivo": "Isquemia arterial aguda de membro."}
+{"id": "train_v2_016", "caso": "Paciente 21 anos, dor e inchaço no tornozelo após torção, consegue andar com dificuldade.", "prioridade": "MÉDIA", "motivo": "Trauma ortopédico articular sem sinais de fratura exposta."}
+{"id": "train_v2_017", "caso": "Paciente 38 anos, dor lombar crônica com piora há 1 semana, incapacitante para o trabalho.", "prioridade": "MÉDIA", "motivo": "Lombalgia agudizada com limitação funcional sem sinais de alarme."}
+{"id": "train_v2_018", "caso": "Paciente 50 anos, nódulo palpável na mama detectado há 1 mês, indolor.", "prioridade": "MÉDIA", "motivo": "Investigação de lesão mamária sem urgência imediata."}
+{"id": "train_v2_019", "caso": "Paciente 29 anos, enxaqueca recorrente resistente a analgésicos comuns da atenção primária.", "prioridade": "MÉDIA", "motivo": "Cefaleia crônica refratária para conduta especializada."}
+{"id": "train_v2_020", "caso": "Paciente 62 anos, DM2 descompensada com glicemia de 210 mg/dL sem cetoacidose.", "prioridade": "MÉDIA", "motivo": "Ajuste terapêutico para endocrinologia."}
+{"id": "train_v2_021", "caso": "Paciente 44 anos, sangramento uterino anormal há 2 semanas, sem anemia grave.", "prioridade": "MÉDIA", "motivo": "Investigação ginecológica subaguda."}
+{"id": "train_v2_022", "caso": "Paciente 31 anos, dor no joelho há 3 semanas após atividade física, com derrame articular.", "prioridade": "MÉDIA", "motivo": "Lesão ligamentar/meniscal a esclarecer."}
+{"id": "train_v2_023", "caso": "Paciente 58 anos, dor epigástrica crônica resistente ao uso de omeprazol por 30 dias.", "prioridade": "MÉDIA", "motivo": "Dispepsia não investigada refratária ao tratamento inicial."}
+{"id": "train_v2_024", "caso": "Paciente 25 anos, crise de ansiedade com episódios frequentes e prejuízo laboral.", "prioridade": "MÉDIA", "motivo": "Acompanhamento psiquiátrico ambulatorial prioritário."}
+{"id": "train_v2_025", "caso": "Paciente 67 anos, redução progressiva da acuidade visual há 6 meses por catarata.", "prioridade": "MÉDIA", "motivo": "Avaliação cirúrgica eletiva com limitação de autonomia."}
+{"id": "train_v2_026", "caso": "Paciente 15 anos, escoliose idiopática com progressão do desvio visual nos últimos meses.", "prioridade": "MÉDIA", "motivo": "Avaliação ortopédica para prevenção de deformidade."}
+{"id": "train_v2_027", "caso": "Paciente 48 anos, zumbido e hipoacusia unilateral há 2 meses.", "prioridade": "MÉDIA", "motivo": "Investigação otorrinolaringológica especializada."}
+{"id": "train_v2_028", "caso": "Paciente 33 anos, ferida em pé diabético sem sinais de infecção sistêmica ou necrose.", "prioridade": "MÉDIA", "motivo": "Lesão crônica em paciente de risco para conduta especializada."}
+{"id": "train_v2_029", "caso": "Paciente 56 anos, bócio tireoidiano detectado em exame físico, assintomático.", "prioridade": "MÉDIA", "motivo": "Nódulo/bócio para investigação endocrinológica."}
+{"id": "train_v2_030", "caso": "Paciente 22 anos, dor articular em mãos há 1 mês com rigidez matinal de 40 minutos.", "prioridade": "MÉDIA", "motivo": "Suspeita de artropatia inflamatória inicial."}
+{"id": "train_v2_031", "caso": "Paciente 30 anos, renovação de receita de medicação contínua, assintomático.", "prioridade": "BAIXA", "motivo": "Demanda puramente administrativa."}
+{"id": "train_v2_032", "caso": "Paciente 19 anos, atestado de saúde ocupacional para início em emprego.", "prioridade": "BAIXA", "motivo": "Avaliação de rotina sem queixas clínicas."}
+{"id": "train_v2_033", "caso": "Paciente 40 anos, remoção de cerume em conduto auditivo externo.", "prioridade": "BAIXA", "motivo": "Procedimento simples de atenção primária."}
+{"id": "train_v2_034", "caso": "Paciente 25 anos, solicitação de check-up geral preventivo sem sintomas.", "prioridade": "BAIXA", "motivo": "Rotina preventiva sem critérios de regulação."}
+{"id": "train_v2_035", "caso": "Paciente 33 anos, micose de unha (onicomicose) persistente há 6 meses.", "prioridade": "BAIXA", "motivo": "Dermatose crônica benigna."}
+{"id": "train_v2_036", "caso": "Paciente 27 anos, laudo médico para prática de esportes em academia.", "prioridade": "BAIXA", "motivo": "Atestado de aptidão física sem sintomas."}
+{"id": "train_v2_037", "caso": "Paciente 50 anos, avaliação de mancha hipercrômica antiga em dorso, indolor e estável.", "prioridade": "BAIXA", "motivo": "Lesão cutânea benigna sem sinais de malignidade."}
+{"id": "train_v2_038", "caso": "Paciente 35 anos, dismenorreia primária leve controlada com analgésicos comuns.", "prioridade": "BAIXA", "motivo": "Quadro ginecológico funcional manejável na atenção primária."}
+{"id": "train_v2_039", "caso": "Paciente 42 anos, queixa de insônia leve ocasional associada a estresse pontual.", "prioridade": "BAIXA", "motivo": "Transtorno leve passível de higiene do sono na UBS."}
+{"id": "train_v2_040", "caso": "Paciente 61 anos, solicitação de troca de sonda vesical de demora em rotina.", "prioridade": "BAIXA", "motivo": "Procedimento ambulatorial de rotina da atenção básica."}
+{"id": "train_v2_041", "caso": "Paciente 23 anos, acne grau I (cravos e poucas pápulas) em face.", "prioridade": "BAIXA", "motivo": "Dermatose estética/leve sem indicação de regulação."}
+{"id": "train_v2_042", "caso": "Paciente 49 anos, leitura de exames de rotina normais realizados há 2 meses.", "prioridade": "BAIXA", "motivo": "Retorno administrativo para apresentação de exames."}
+{"id": "train_v2_043", "caso": "Paciente 36 anos, lipoma subcutâneo de 1 cm em antebraço, estável há 2 anos.", "prioridade": "BAIXA", "motivo": "Neoplasia benigna assintomática sem indicação cirúrgica urgente."}
+{"id": "train_v2_044", "caso": "Paciente 18 anos, rastreio de pé plano flexível assintomático.", "prioridade": "BAIXA", "motivo": "Variante anatômica benigna sem queixa funcional."}
+{"id": "train_v2_045", "caso": "Paciente 54 anos, epigastralgia leve esporádica após alimentação gordurosa.", "prioridade": "BAIXA", "motivo": "Sintoma dispéptico leve sem sinais de alarme."}

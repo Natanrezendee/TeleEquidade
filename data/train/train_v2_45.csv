@@ -1,0 +1,46 @@
+﻿id,caso,prioridade,motivo
+train_v2_001,"Paciente 68 anos, dor precordial há 2 dias e histórico de IAM.",ALTA,Suspeita de síndrome coronariana aguda.
+train_v2_002,"Paciente 45 anos, perda súbita de visão no olho direito há 3 horas.",ALTA,Urgência oftalmológica/neurológica aguda.
+train_v2_003,"Paciente 12 anos, crise asmática grave, sem resposta a broncodilatador.",ALTA,Insuficiência respiratória aguda em pediatria.
+train_v2_004,"Paciente 55 anos, suspeita de fratura exposta em membro inferior.",ALTA,Urgência ortopédica grave com risco infecção.
+train_v2_005,"Paciente 70 anos, rebaixamento do nível de consciência e febre alta.",ALTA,Suspeita de sepse ou infecção do SNC.
+train_v2_006,"Paciente 34 anos, gestante 32 semanas com sangramento vaginal abundante.",ALTA,Urgência obstétrica com risco de descolamento de placenta.
+train_v2_007,"Paciente 50 anos, cefaleia súbita de forte intensidade tipo explosiva.",ALTA,Suspeita de hemorragia subaracnóidea.
+train_v2_008,"Paciente 60 anos, assimetria facial e perda de força em hemicorpo esquerdo há 1 hora.",ALTA,Suspeita de AVC agudo dentro da janela de tromboólise.
+train_v2_009,"Paciente 28 anos, dor abdominal intensa em fossa ilíaca direita e febre.",ALTA,Suspeita de apendicite aguda (abdômen agudo).
+train_v2_010,"Paciente 8 anos, estridor laríngeo e tiragem intercostal em repouso.",ALTA,Obstrução de vias aéreas superiores em pediatria.
+train_v2_011,"Paciente 62 anos, hematêmese volumosa e tontura ao se levantar.",ALTA,Hemorragia digestiva alta ativa.
+train_v2_012,"Paciente 40 anos, queimadura de 2º e 3º grau em 30% do corpo.",ALTA,Grande queimado com risco de choque e infecção.
+train_v2_013,"Paciente 75 anos, anúria há 24 horas e edema agudo de membros.",ALTA,Insuficiência renal aguda grave.
+train_v2_014,"Paciente 19 anos, anafilaxia por picada de abelha com edema de glote.",ALTA,Reação anafilática grave com risco iminente de asfixia.
+train_v2_015,"Paciente 52 anos, dor no pé esquerdo com palidez, ausência de pulso e frio.",ALTA,Isquemia arterial aguda de membro.
+train_v2_016,"Paciente 21 anos, dor e inchaço no tornozelo após torção, consegue andar com dificuldade.",MÉDIA,Trauma ortopédico articular sem sinais de fratura exposta.
+train_v2_017,"Paciente 38 anos, dor lombar crônica com piora há 1 semana, incapacitante para o trabalho.",MÉDIA,Lombalgia agudizada com limitação funcional sem sinais de alarme.
+train_v2_018,"Paciente 50 anos, nódulo palpável na mama detectado há 1 mês, indolor.",MÉDIA,Investigação de lesão mamária sem urgência imediata.
+train_v2_019,"Paciente 29 anos, enxaqueca recorrente resistente a analgésicos comuns da atenção primária.",MÉDIA,Cefaleia crônica refratária para conduta especializada.
+train_v2_020,"Paciente 62 anos, DM2 descompensada com glicemia de 210 mg/dL sem cetoacidose.",MÉDIA,Ajuste terapêutico para endocrinologia.
+train_v2_021,"Paciente 44 anos, sangramento uterino anormal há 2 semanas, sem anemia grave.",MÉDIA,Investigação ginecológica subaguda.
+train_v2_022,"Paciente 31 anos, dor no joelho há 3 semanas após atividade física, com derrame articular.",MÉDIA,Lesão ligamentar/meniscal a esclarecer.
+train_v2_023,"Paciente 58 anos, dor epigástrica crônica resistente ao uso de omeprazol por 30 dias.",MÉDIA,Dispepsia não investigada refratária ao tratamento inicial.
+train_v2_024,"Paciente 25 anos, crise de ansiedade com episódios frequentes e prejuízo laboral.",MÉDIA,Acompanhamento psiquiátrico ambulatorial prioritário.
+train_v2_025,"Paciente 67 anos, redução progressiva da acuidade visual há 6 meses por catarata.",MÉDIA,Avaliação cirúrgica eletiva com limitação de autonomia.
+train_v2_026,"Paciente 15 anos, escoliose idiopática com progressão do desvio visual nos últimos meses.",MÉDIA,Avaliação ortopédica para prevenção de deformidade.
+train_v2_027,"Paciente 48 anos, zumbido e hipoacusia unilateral há 2 meses.",MÉDIA,Investigação otorrinolaringológica especializada.
+train_v2_028,"Paciente 33 anos, ferida em pé diabético sem sinais de infecção sistêmica ou necrose.",MÉDIA,Lesão crônica em paciente de risco para conduta especializada.
+train_v2_029,"Paciente 56 anos, bócio tireoidiano detectado em exame físico, assintomático.",MÉDIA,Nódulo/bócio para investigação endocrinológica.
+train_v2_030,"Paciente 22 anos, dor articular em mãos há 1 mês com rigidez matinal de 40 minutos.",MÉDIA,Suspeita de artropatia inflamatória inicial.
+train_v2_031,"Paciente 30 anos, renovação de receita de medicação contínua, assintomático.",BAIXA,Demanda puramente administrativa.
+train_v2_032,"Paciente 19 anos, atestado de saúde ocupacional para início em emprego.",BAIXA,Avaliação de rotina sem queixas clínicas.
+train_v2_033,"Paciente 40 anos, remoção de cerume em conduto auditivo externo.",BAIXA,Procedimento simples de atenção primária.
+train_v2_034,"Paciente 25 anos, solicitação de check-up geral preventivo sem sintomas.",BAIXA,Rotina preventiva sem critérios de regulação.
+train_v2_035,"Paciente 33 anos, micose de unha (onicomicose) persistente há 6 meses.",BAIXA,Dermatose crônica benigna.
+train_v2_036,"Paciente 27 anos, laudo médico para prática de esportes em academia.",BAIXA,Atestado de aptidão física sem sintomas.
+train_v2_037,"Paciente 50 anos, avaliação de mancha hipercrômica antiga em dorso, indolor e estável.",BAIXA,Lesão cutânea benigna sem sinais de malignidade.
+train_v2_038,"Paciente 35 anos, dismenorreia primária leve controlada com analgésicos comuns.",BAIXA,Quadro ginecológico funcional manejável na atenção primária.
+train_v2_039,"Paciente 42 anos, queixa de insônia leve ocasional associada a estresse pontual.",BAIXA,Transtorno leve passível de higiene do sono na UBS.
+train_v2_040,"Paciente 61 anos, solicitação de troca de sonda vesical de demora em rotina.",BAIXA,Procedimento ambulatorial de rotina da atenção básica.
+train_v2_041,"Paciente 23 anos, acne grau I (cravos e poucas pápulas) em face.",BAIXA,Dermatose estética/leve sem indicação de regulação.
+train_v2_042,"Paciente 49 anos, leitura de exames de rotina normais realizados há 2 meses.",BAIXA,Retorno administrativo para apresentação de exames.
+train_v2_043,"Paciente 36 anos, lipoma subcutâneo de 1 cm em antebraço, estável há 2 anos.",BAIXA,Neoplasia benigna assintomática sem indicação cirúrgica urgente.
+train_v2_044,"Paciente 18 anos, rastreio de pé plano flexível assintomático.",BAIXA,Variante anatômica benigna sem queixa funcional.
+train_v2_045,"Paciente 54 anos, epigastralgia leve esporádica após alimentação gordurosa.",BAIXA,Sintoma dispéptico leve sem sinais de alarme.

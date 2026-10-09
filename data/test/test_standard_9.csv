@@ -1,0 +1,10 @@
+﻿id,caso,esperado
+test_standard_001,"Paciente 58 anos, dor torácica opressiva irradiando para braço esquerdo há 1 hora.",ALTA
+test_standard_002,"Paciente 4 anos, febre de 39.5°C persistente com manchas vermelhas pelo corpo e letargia.",ALTA
+test_standard_003,"Paciente 32 anos, trauma ocular grave por resíduo químico com perda de visão.",ALTA
+test_standard_004,"Paciente 41 anos, dor lombar intensa há 3 dias sem febre ou perda de força.",MÉDIA
+test_standard_005,"Paciente 27 anos, entorse de joelho durante futebol, edema leve, anda com apoio.",MÉDIA
+test_standard_006,"Paciente 65 anos, pressão arterial 150x90 mmHg, assintomático, para acompanhamento.",MÉDIA
+test_standard_007,"Paciente 22 anos, solicitação de laudo para academia de ginástica.",BAIXA
+test_standard_008,"Paciente 51 anos, renovação de receita para anti-hipertensivo em uso regular.",BAIXA
+test_standard_009,"Paciente 35 anos, quadro de verruga plantar crônica e indolor.",BAIXA

@@ -1,0 +1,15 @@
+{"id": "train_v1_001", "caso": "Paciente 68 anos, dor precordial há 2 dias e histórico de IAM.", "prioridade": "ALTA", "motivo": "Suspeita de síndrome coronariana aguda."}
+{"id": "train_v1_002", "caso": "Paciente 45 anos, perda súbita de visão no olho direito há 3 horas.", "prioridade": "ALTA", "motivo": "Urgência oftalmológica/neurológica aguda."}
+{"id": "train_v1_003", "caso": "Paciente 12 anos, crise asmática grave, sem resposta a broncodilatador.", "prioridade": "ALTA", "motivo": "Insuficiência respiratória aguda em pediatria."}
+{"id": "train_v1_004", "caso": "Paciente 55 anos, suspeita de fratura exposta em membro inferior.", "prioridade": "ALTA", "motivo": "Urgência ortopédica grave com risco infecção."}
+{"id": "train_v1_005", "caso": "Paciente 70 anos, rebaixamento do nível de consciência e febre alta.", "prioridade": "ALTA", "motivo": "Suspeita de sepse ou infecção do SNC."}
+{"id": "train_v1_006", "caso": "Paciente 21 anos, dor e inchaço no tornozelo após torção, consegue andar com dificuldade.", "prioridade": "MÉDIA", "motivo": "Trauma ortopédico articular sem sinais de fratura exposta."}
+{"id": "train_v1_007", "caso": "Paciente 38 anos, dor lombar crônica com piora há 1 semana, sem febre.", "prioridade": "MÉDIA", "motivo": "Lombalgia agudizada sem sinais de alarme."}
+{"id": "train_v1_008", "caso": "Paciente 50 anos, nódulo palpável na mama detectado há 1 mês, indolor.", "prioridade": "MÉDIA", "motivo": "Investigação de lesão mamária sem urgência imediata."}
+{"id": "train_v1_009", "caso": "Paciente 29 anos, enxaqueca recorrente resistente a analgésicos comuns.", "prioridade": "MÉDIA", "motivo": "Cefaleia crônica para conduta especializada."}
+{"id": "train_v1_010", "caso": "Paciente 62 anos, DM2 descompensada com glicemia de 210 mg/dL sem cetoacidose.", "prioridade": "MÉDIA", "motivo": "Ajuste terapêutico para endocrinologia."}
+{"id": "train_v1_011", "caso": "Paciente 30 anos, renovação de receita de medicação contínua, assintomático.", "prioridade": "BAIXA", "motivo": "Demanda puramente administrativa."}
+{"id": "train_v1_012", "caso": "Paciente 19 anos, atestado de saúde ocupacional para início em emprego.", "prioridade": "BAIXA", "motivo": "Avaliação de rotina sem queixas clínicas."}
+{"id": "train_v1_013", "caso": "Paciente 40 anos, remoção de cerume em conduto auditivo externo.", "prioridade": "BAIXA", "motivo": "Procedimento simples de atenção primária."}
+{"id": "train_v1_014", "caso": "Paciente 25 anos, solicitação de check-up geral preventivo sem sintomas.", "prioridade": "BAIXA", "motivo": "Rotina preventiva sem critérios de regulação."}
+{"id": "train_v1_015", "caso": "Paciente 33 anos, micose de unha (onicomicose) persistente há 6 meses.", "prioridade": "BAIXA", "motivo": "Dermatose crônica benigna."}

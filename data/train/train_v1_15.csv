@@ -1,0 +1,16 @@
+﻿id,caso,prioridade,motivo
+train_v1_001,"Paciente 68 anos, dor precordial há 2 dias e histórico de IAM.",ALTA,Suspeita de síndrome coronariana aguda.
+train_v1_002,"Paciente 45 anos, perda súbita de visão no olho direito há 3 horas.",ALTA,Urgência oftalmológica/neurológica aguda.
+train_v1_003,"Paciente 12 anos, crise asmática grave, sem resposta a broncodilatador.",ALTA,Insuficiência respiratória aguda em pediatria.
+train_v1_004,"Paciente 55 anos, suspeita de fratura exposta em membro inferior.",ALTA,Urgência ortopédica grave com risco infecção.
+train_v1_005,"Paciente 70 anos, rebaixamento do nível de consciência e febre alta.",ALTA,Suspeita de sepse ou infecção do SNC.
+train_v1_006,"Paciente 21 anos, dor e inchaço no tornozelo após torção, consegue andar com dificuldade.",MÉDIA,Trauma ortopédico articular sem sinais de fratura exposta.
+train_v1_007,"Paciente 38 anos, dor lombar crônica com piora há 1 semana, sem febre.",MÉDIA,Lombalgia agudizada sem sinais de alarme.
+train_v1_008,"Paciente 50 anos, nódulo palpável na mama detectado há 1 mês, indolor.",MÉDIA,Investigação de lesão mamária sem urgência imediata.
+train_v1_009,"Paciente 29 anos, enxaqueca recorrente resistente a analgésicos comuns.",MÉDIA,Cefaleia crônica para conduta especializada.
+train_v1_010,"Paciente 62 anos, DM2 descompensada com glicemia de 210 mg/dL sem cetoacidose.",MÉDIA,Ajuste terapêutico para endocrinologia.
+train_v1_011,"Paciente 30 anos, renovação de receita de medicação contínua, assintomático.",BAIXA,Demanda puramente administrativa.
+train_v1_012,"Paciente 19 anos, atestado de saúde ocupacional para início em emprego.",BAIXA,Avaliação de rotina sem queixas clínicas.
+train_v1_013,"Paciente 40 anos, remoção de cerume em conduto auditivo externo.",BAIXA,Procedimento simples de atenção primária.
+train_v1_014,"Paciente 25 anos, solicitação de check-up geral preventivo sem sintomas.",BAIXA,Rotina preventiva sem critérios de regulação.
+train_v1_015,"Paciente 33 anos, micose de unha (onicomicose) persistente há 6 meses.",BAIXA,Dermatose crônica benigna.

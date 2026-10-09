@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Se você usar este dataset, cite-o conforme abaixo."
+title: "SISREG Priority Dataset: casos sintéticos para classificação de prioridade em regulação assistencial"
+type: dataset
+authors:
+  - family-names: "Magalhães"
+    given-names: "Natan Rezende Kiffer"
+    affiliation: "FAETERJ"
+  - family-names: "Almeida"
+    given-names: "Isaac Emanuel Pires de"
+date-released: "2026-10-09"
+license: CC-BY-4.0
+repository-code: "https://github.com/SEU-USUARIO/sisreg-priority-dataset"
+keywords:
+  - SISREG
+  - regulação assistencial
+  - triagem
+  - small language models
+  - QLoRA
+  - dados sintéticos
+language: por
